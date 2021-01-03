@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MvvmLogin</string>
+    <string name="button_text">Login</string>
+    <string name="heading">Login Example</string>
+    <string name="mobile_hint">Enter mobile number</string>
+    <string name="password_hint">Password</string>
+</resources>
